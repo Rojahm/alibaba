@@ -15,7 +15,10 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
-
+body {
+  /* font-family: shabnam, -apple-system, sans-serif; */
+  direction: rtl;
+}
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
